@@ -1,5 +1,19 @@
 body {
   font-family: "Lora", serif;
   text-align: center;
-  background-color: #fae588;
+  background-color: #c5997a;
+}
+
+.links {
+  margin: 10px;
+  color: #d9d0d3;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
